@@ -55,10 +55,3 @@ npm start
 ### 5️⃣ Open in Browser
 Visit `http://localhost:5173` to access the application.
 
-
----
-
-💡 Feel free to contribute by submitting pull requests or reporting issues!
-
-📧 Contact: [Your Email or GitHub Profile]
-
